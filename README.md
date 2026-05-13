@@ -1,8 +1,6 @@
-# Power-BI-Portfolio
-Power BI dashboards focused on business analytics, CRM operations, finance, HR, and executive reporting.
 # Marvin Brown | Power BI Portfolio
 
-Business Economics student and data quality professional with 5+ years of experience supporting CRM data accuracy, customer records, reporting workflows, and operational data processes.
+Aspiring Business/Data Analyst focused on CRM analytics, KPI reporting, operations intelligence, and dashboard storytelling.
 
 This portfolio demonstrates Power BI skills in:
 - Data cleaning
