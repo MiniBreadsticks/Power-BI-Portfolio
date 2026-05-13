@@ -14,16 +14,16 @@ This portfolio demonstrates Power BI skills in:
 ## Featured Projects
 
 ### 1. Sales Performance Dashboard
-Beginner project analyzing sales, profit, customer segments, and regional performance.
+Project analyzing sales, profit, customer segments, and regional performance.
 
 ### 2. Personal Finance Dashboard
-Beginner project tracking income, expenses, bills, and savings trends.
+Project tracking income, expenses, bills, and savings trends.
 
 ### 3. CRM Operations Dashboard
-Intermediate project focused on tickets, case volume, SLA performance, and agent productivity.
+Project focused on tickets, case volume, SLA performance, and agent productivity.
 
 ### 4. HR Analytics Dashboard
-Intermediate project analyzing attrition, departments, salary, overtime, and employee trends.
+Project analyzing attrition, departments, salary, overtime, and employee trends.
 
 ### 5. Executive Operations Dashboard
-Advanced project using multiple tables, KPIs, drill-throughs, DAX, forecasting, and executive insights.
+Project using multiple tables, KPIs, drill-throughs, DAX, forecasting, and executive insights.
